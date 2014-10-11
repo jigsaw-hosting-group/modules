@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+    <name>Sentora Config</name>
+    <version>101</version>
+    <defaultcat>Server Admin</defaultcat>
+    <type>system</type>
+    <desc>Changes made here affect the entire Sentora configuration, please double check everything before saving changes.</desc>
+    <scversion>1.0.0</scversion>
+    <authorname>Sentora Project</authorname>
+    <authoremail>developers@sentora.org</authoremail>
+    <authorurl>http://www.sentora.org/</authorurl>
+    <updateurl>http://addons.sentora.org/modules/core.xml</updateurl>
+</module>

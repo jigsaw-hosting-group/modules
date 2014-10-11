@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+    <name>Sentora Core System Module</name>
+    <version>105</version>
+    <defaultcat>other</defaultcat>
+    <type>system</type>
+    <desc>Core system modules for Sentora.</desc>
+    <scversion>1.0.0</scversion>
+    <authorname>Sentora Project</authorname>
+    <authoremail>developers@sentora.org</authoremail>
+    <authorurl>http://www.sentora.org/</authorurl>
+    <updateurl>http://addons.sentora.org/modules/core.xml</updateurl>
+</module>
