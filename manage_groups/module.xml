@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <module>
-    	<name>Maanage Groups</name>
+    	<name>Manage Groups</name>
     	<version>105</version>
     	<defaultcat>Reseller</defaultcat>
     	<type>Default</type>
